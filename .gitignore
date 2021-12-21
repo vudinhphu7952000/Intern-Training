@@ -21,3 +21,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/THUCTAPBUOI1/.classpath
+/THUCTAPBUOI1/.project
+/THUCTAPBUOI1/.settings/org.eclipse.core.resources.prefs
+/THUCTAPBUOI1/.settings/org.eclipse.jdt.core.prefs
